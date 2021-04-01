@@ -1,4 +1,3 @@
-# css
 <!doctype html>
 <html lang="en-US">
 <head>
@@ -80,13 +79,13 @@ the slightest diference? What can it not see? What will always remain in the sha
   <!-- More Info Section -->
   <footer>
     <article class="footer_column">
-      <h3>		<a href="../Asztali gép/screen-recording (2).webm">About</a></h3>
-      <img src="../Asztali gép/4.jpg" width="450" height="350" alt=""/>
+      <h3>		<a href="screen-recording (2).webm">About</a></h3>
+      <img src="4.jpg" width="450" height="350" alt=""/>
       <p>The significance of a pigment can only be understood in relation to colour absorption. The word 'colour', in the strict sense of the term, .cannot describe a material substance, for colour is only the luminous sensation resulting from the selective absorption by the substance of certain of the light waves which constitute white light. 'What the eye sees as colour is the remaining, unabsorbed light.  </p>
     </article>
     <article class="footer_column">
-      <h3><a href="../../Downloads/screen-recording (1).webm">Location</a></h3>
-      <img src="../Asztali gép/5 (2).jpg" width="500" height="350" alt=""/>
+      <h3><a href="screen-recording (1).webm">Location</a></h3>
+      <img src="5 (2).jpg" width="500" height="350" alt=""/>
       <p>The colourless light of the sun is derived from a mass of rays of varying wavelength which can be analysed by refraction through a prism to form a spectrum of colour within which can be distinguished six main hues, namely, violet, blue, green, yellow, orange and red. A substance which absorbs all the rays of the sun is said to be black whereas one which reflects all of them is white; so, in a strictly physical sense, black and white cannot be described as colours. When light is reflected almost but not quite completely the effect of greyness results. In this case there has only been a small absorption of light. </p>
     </article>
   </footer>
