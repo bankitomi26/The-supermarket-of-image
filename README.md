@@ -1,9 +1,4 @@
-<html lang="en-US">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="BTK" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" type="image/png" href="IMG_20200904_103322.jpg" />
+
 <link href="singlePageTemplate.css" rel="stylesheet" type="text/css">
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
 <script>var __adobewebfontsappname__="dreamweaver"</script>
