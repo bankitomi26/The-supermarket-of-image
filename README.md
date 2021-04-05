@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="BTk" content="width=device-width, initial-scale=1">
 <title>The Supermarket of Images</title>
-<link rel="shortcut icon" type="image/png" href="IMG_20200904_103322.jpg" />
+<link rel="shortcut icon" type="image/png" href="dw_pkg.ico" />
 <link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
 <script>var __adobewebfontsappname__="dreamweaver"</script>
@@ -96,3 +96,5 @@ the slightest diference? What can it not see? What will always remain in the sha
   </section>
   <!-- Copyrights Section -->
   <div class="copyright">&copy;2021- <strong>Light Theme</strong></div>
+
+
