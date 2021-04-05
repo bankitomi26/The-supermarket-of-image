@@ -5,7 +5,7 @@
 <meta name="BTK" content="width=device-width, initial-scale=1">
 <title>The Supermarket of Images</title>
 <link rel="shortcut icon" type="image/png" href="IMG_20200904_103322.jpg" />
-<link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<link href="singlePageTemplate.css" rel="stylesheet" type="text/css">
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
 <script>var __adobewebfontsappname__="dreamweaver"</script>
 <script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
