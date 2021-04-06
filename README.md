@@ -19,7 +19,7 @@
 <div class="container"> 
   <!-- Navigation -->
   <header> <a href="">
-    <h4 class="logo">ICONOMICS</h4>
+    <h4 class="logo"></h4>
     </a>
     <nav>
       <ul>
