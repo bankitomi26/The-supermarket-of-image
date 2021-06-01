@@ -19,9 +19,7 @@
 <!-- Main Container -->
 <div class="container"> 
   <!-- Navigation -->
-  <header> <a href="">
-    <h4 class="logo"></h4>
-    </a>
+  <header> 
     <nav>
       <ul>
         <li><a href="#hero">HOME</a></li>
