@@ -37,7 +37,7 @@
   <!-- About Section -->
   <section class="about" id="about">
     <h2 class="hidden">About</h2>
-    <p class="text_column">The question that arises for the feld of what I have suggested 
+    <p class="text_column">The question that arises for the field of what I have suggested 
 calling iconomics – the general economy of images that attempts to capture the laws of their circulation and exchange – is not only the future of iconic pathways and vehicles in the 
 digital age, but also their history, how they are descended from the road networks that criss-crossed the visible in the past. </p>
     <p class="text_column"> For, on the one hand, the current infrastructures of the visible often form part of an unsuspected continuity with the communication networks that preceded them, and on the other hand, they introduce speed diferentials into the visible, contrasts between high-speed and extremely slow image propagation that are so pronounced that they seem simultaneously to be part of breathtakingly disjointed existence patterns. </p>
