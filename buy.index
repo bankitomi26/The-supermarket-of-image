@@ -30,9 +30,8 @@
   </header>
   <!-- Hero Section -->
   <section class="hero" id="hero">
-    <h2 class="hero_header">ICONOMICS of<span class="light"> PICTURE</span></h2>
+    <h2 class="hero_header">ICONOMICS of<span class="light"> <a href="https://www.facebook.com/messenger_media?thread_id=4071721242847387&attachment_id=733372124215124&message_id=mid.%24gAA53NXpN6Jt-ew8SZF4ScnI2Tj-o">PICTURE</a></span></h2>
     <p class="tagline">Iconomics is a one page newspaper</p>
-<div><img src="5 (2).jpg" width="500" height="350" alt=""/><</div>
   </section>
   <!-- About Section -->
   <section class="about" id="about">
